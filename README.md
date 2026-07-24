@@ -27,10 +27,10 @@ signal  : build &amp; iterate
 
 <p align="center">
   <a href="https://github.com/saime428/DreamLoop">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saime428&repo=DreamLoop&theme=transparent&hide_border=true&title_color=93C5FD&text_color=C9D1D9&icon_color=A78BFA" alt="DreamLoop" />
+    <img width="49%" src="https://raw.githubusercontent.com/saime428/saime428/master/assets/project-dreamloop.svg" alt="DreamLoop — local-first AI dream journal" />
   </a>
   <a href="https://github.com/saime428/codex-usage-widget">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saime428&repo=codex-usage-widget&theme=transparent&hide_border=true&title_color=93C5FD&text_color=C9D1D9&icon_color=A78BFA" alt="Codex usage widget" />
+    <img width="49%" src="https://raw.githubusercontent.com/saime428/saime428/master/assets/project-codex-widget.svg" alt="Codex usage widget — Windows companion" />
   </a>
 </p>
 
