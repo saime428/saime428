@@ -45,7 +45,7 @@
     <text x="72" y="74" fill="#93C5FD" font-size="13" letter-spacing="3">PERSONAL BUILD LOG / 2026</text>
     <text x="72" y="132" fill="#F8FAFC" font-size="49" font-weight="700" letter-spacing="-2">saime428</text>
     <text x="72" y="168" fill="#CBD5E1" font-size="16">LOCAL-FIRST AI  ·  AGENT WORKFLOWS  ·  CREATIVE TOOLS</text>
-    <text x="72" y="194" fill="#CBD5E1" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="14">做本地 AI、Agent 工作流与有表现力的 Web 工具。</text>
+    <text x="72" y="194" fill="#CBD5E1" font-size="14">Building small, useful tools with privacy and personality.</text>
     <circle cx="78" cy="224" r="5" fill="#34D399">
       <animate attributeName="opacity" values="1;.35;1" dur="1.6s" repeatCount="indefinite"/>
     </circle>
