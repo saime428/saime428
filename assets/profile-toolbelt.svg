@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190" role="img" aria-labelledby="title desc">
+  <title id="title">Animated technology cards</title>
+  <desc id="desc">Six gently floating cards for Python, TypeScript, JavaScript, PowerShell, Ollama and Web FX.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161B22"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="-1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#FFF" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#FFF" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#FFF" stop-opacity="0"/>
+      <animate attributeName="x1" values="-1;1" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1100" height="190" rx="18" fill="#0D1117"/>
+
+  <g transform="translate(18 18)"><g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.8s" repeatCount="indefinite"/>
+    <rect width="161" height="150" rx="16" fill="url(#surface)" stroke="#334155"/>
+    <rect width="161" height="150" rx="16" fill="url(#shine)" opacity=".5"/>
+    <rect x="18" y="22" width="54" height="54" rx="14" fill="#3776AB"/>
+    <path d="M28 47c0-8 5-13 14-13h11c7 0 11 5 11 11v10c0 8-5 12-13 12H40v-8h10c3 0 5-2 5-5v-8c0-3-2-5-5-5H40c-3 0-5 2-5 5v12h-7z" fill="#FDE68A"/>
+    <circle cx="51" cy="47" r="3" fill="#3776AB"/>
+    <text x="18" y="110" fill="#F8FAFC" font-family="ui-monospace, monospace" font-size="17" font-weight="700">PYTHON</text>
+    <text x="18" y="132" fill="#94A3B8" font-family="ui-monospace, monospace" font-size="11">LOCAL AI / TOOLS</text>
+    <circle cx="137" cy="128" r="4" fill="#34D399" filter="url(#glow)"><animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  </g></g>
+
+  <g transform="translate(196 18)"><g>
+    <animateTransform attributeName="transform" type="translate" values="0 -4;0 4;0 -4" dur="4.4s" begin="-.8s" repeatCount="indefinite"/>
+    <rect width="161" height="150" rx="16" fill="url(#surface)" stroke="#334155"/>
+    <rect width="161" height="150" rx="16" fill="url(#shine)" opacity=".5"/>
+    <rect x="18" y="22" width="54" height="54" rx="12" fill="#3178C6"/>
+    <text x="27" y="59" fill="#FFF" font-family="ui-monospace, monospace" font-size="22" font-weight="700">TS</text>
+    <text x="18" y="110" fill="#F8FAFC" font-family="ui-monospace, monospace" font-size="17" font-weight="700">TYPESCRIPT</text>
+    <text x="18" y="132" fill="#94A3B8" font-family="ui-monospace, monospace" font-size="11">PRODUCT SURFACES</text>
+    <circle cx="137" cy="128" r="4" fill="#60A5FA" filter="url(#glow)"><animate attributeName="opacity" values="1;.25;1" dur="2s" begin="-.4s" repeatCount="indefinite"/></circle>
+  </g></g>
+
+  <g transform="translate(374 18)"><g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="3.5s" begin="-1.5s" repeatCount="indefinite"/>
+    <rect width="161" height="150" rx="16" fill="url(#surface)" stroke="#334155"/>
+    <rect width="161" height="150" rx="16" fill="url(#shine)" opacity=".5"/>
+    <rect x="18" y="22" width="54" height="54" rx="12" fill="#F7DF1E"/>
+    <text x="28" y="59" fill="#111827" font-family="ui-monospace, monospace" font-size="22" font-weight="700">JS</text>
+    <text x="18" y="110" fill="#F8FAFC" font-family="ui-monospace, monospace" font-size="17" font-weight="700">JAVASCRIPT</text>
+    <text x="18" y="132" fill="#94A3B8" font-family="ui-monospace, monospace" font-size="11">INTERACTIONS</text>
+    <circle cx="137" cy="128" r="4" fill="#FDE68A" filter="url(#glow)"><animate attributeName="opacity" values="1;.2;1" dur="1.7s" begin="-.9s" repeatCount="indefinite"/></circle>
+  </g></g>
+
+  <g transform="translate(552 18)"><g>
+    <animateTransform attributeName="transform" type="translate" values="0 -5;0 5;0 -5" dur="4.1s" begin="-2s" repeatCount="indefinite"/>
+    <rect width="161" height="150" rx="16" fill="url(#surface)" stroke="#334155"/>
+    <rect width="161" height="150" rx="16" fill="url(#shine)" opacity=".5"/>
+    <circle cx="45" cy="49" r="27" fill="#5391FE"/>
+    <text x="29" y="56" fill="#FFF" font-family="ui-monospace, monospace" font-size="20" font-weight="700">&gt;_</text>
+    <text x="18" y="110" fill="#F8FAFC" font-family="ui-monospace, monospace" font-size="17" font-weight="700">POWERSHELL</text>
+    <text x="18" y="132" fill="#94A3B8" font-family="ui-monospace, monospace" font-size="11">WINDOWS UTILITIES</text>
+    <circle cx="137" cy="128" r="4" fill="#60A5FA" filter="url(#glow)"><animate attributeName="opacity" values="1;.25;1" dur="2.1s" begin="-1.2s" repeatCount="indefinite"/></circle>
+  </g></g>
+
+  <g transform="translate(730 18)"><g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.9s" begin="-2.8s" repeatCount="indefinite"/>
+    <rect width="161" height="150" rx="16" fill="url(#surface)" stroke="#334155"/>
+    <rect width="161" height="150" rx="16" fill="url(#shine)" opacity=".5"/>
+    <circle cx="45" cy="49" r="27" fill="#F8FAFC"/>
+    <path d="M34 55c6-18 22-18 23 0M32 45h26M45 31v35" fill="none" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+    <text x="18" y="110" fill="#F8FAFC" font-family="ui-monospace, monospace" font-size="17" font-weight="700">OLLAMA</text>
+    <text x="18" y="132" fill="#94A3B8" font-family="ui-monospace, monospace" font-size="11">ON-DEVICE MODELS</text>
+    <circle cx="137" cy="128" r="4" fill="#E2E8F0" filter="url(#glow)"><animate attributeName="opacity" values="1;.25;1" dur="1.9s" begin="-1.5s" repeatCount="indefinite"/></circle>
+  </g></g>
+
+  <g transform="translate(908 18)"><g>
+    <animateTransform attributeName="transform" type="translate" values="0 -4;0 5;0 -4" dur="4.6s" begin="-3.1s" repeatCount="indefinite"/>
+    <rect width="174" height="150" rx="16" fill="url(#surface)" stroke="#334155"/>
+    <rect width="174" height="150" rx="16" fill="url(#shine)" opacity=".5"/>
+    <path d="M46 21l7 19 19 7-19 7-7 19-7-19-19-7 19-7z" fill="#A78BFA" filter="url(#glow)"><animateTransform attributeName="transform" type="rotate" values="0 46 47;10 46 47;0 46 47" dur="2.8s" repeatCount="indefinite"/></path>
+    <text x="18" y="110" fill="#F8FAFC" font-family="ui-monospace, monospace" font-size="17" font-weight="700">WEB FX</text>
+    <text x="18" y="132" fill="#94A3B8" font-family="ui-monospace, monospace" font-size="11">CREATIVE PROTOTYPES</text>
+    <circle cx="149" cy="128" r="4" fill="#A78BFA" filter="url(#glow)"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" begin="-.6s" repeatCount="indefinite"/></circle>
+  </g></g>
+</svg>

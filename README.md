@@ -1,27 +1,49 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=180&section=header&text=saime428&fontSize=56&fontColor=FFFFFF&animation=fadeIn" alt="saime428" />
+  <img src="https://raw.githubusercontent.com/saime428/saime428/master/assets/profile-hero.svg" alt="saime428 — local-first AI, agent workflows and creative tools" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+saime428;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E6%8C%81%E7%BB%AD%E5%88%9B%E9%80%A0;Learn.+Build.+Share." alt="动态欢迎语" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=93C5FD&center=true&vCenter=true&width=620&height=36&lines=%24+whoami+%E2%86%92+saime428;%24+focus+%E2%86%92+local-first+AI+%C2%B7+agents+%C2%B7+creative+tools" alt="当前关注方向" />
 </p>
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h2>Building useful things, close to the user.</h2>
+      <p>我在做本地优先的 AI 体验、Agent 工作流和有表现力的 Web 小工具。这里记录正在推进的实验，也放那些真正能运行的作品。</p>
+      <p><sub>NOW / local AI · agent workbench · interactive web experiments</sub></p>
+    </td>
+    <td width="38%" valign="top">
+      <pre>
+status  : shipping
+principle: local by default
+signal  : build &amp; iterate
+      </pre>
+    </td>
+  </tr>
+</table>
+
+## Selected work
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saime428&label=Profile%20views&color=58A6FF&style=flat" alt="主页访问量" />
+  <a href="https://github.com/saime428/DreamLoop">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saime428&repo=DreamLoop&theme=transparent&hide_border=true&title_color=93C5FD&text_color=C9D1D9&icon_color=A78BFA" alt="DreamLoop" />
+  </a>
+  <a href="https://github.com/saime428/codex-usage-widget">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saime428&repo=codex-usage-widget&theme=transparent&hide_border=true&title_color=93C5FD&text_color=C9D1D9&icon_color=A78BFA" alt="Codex usage widget" />
+  </a>
 </p>
 
-## 你好 👋
+## Toolkit / currently shipping with
 
-这里是我的 GitHub 主页，用来记录学习、实验和完成的作品。
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saime428/saime428/master/assets/profile-toolbelt.svg" alt="Animated cards for Python, TypeScript, JavaScript, PowerShell, Ollama and Web FX" />
+</p>
 
-- 🌱 正在探索新技术，也持续打磨基础
-- 🛠️ 喜欢把想法做成能运行的小作品
-- ✨ 欢迎看看下方置顶的项目
-
-## 贡献轨迹
+## Live contribution map
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saime428/saime428/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saime428/saime428/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/saime428/saime428/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution map" src="https://raw.githubusercontent.com/saime428/saime428/output/github-contribution-grid-snake.svg" />
 </picture>
