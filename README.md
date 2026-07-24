@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saime428/saime428/master/assets/profile-hero.svg" alt="saime428 — local-first AI, agent workflows and creative tools" />
+  <img src="https://raw.githubusercontent.com/saime428/saime428/master/assets/profile-hero.svg?v=26b1036" alt="saime428 — local-first AI, agent workflows and creative tools" />
 </p>
 
 ## Toolkit / currently shipping with
