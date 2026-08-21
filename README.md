@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/saime428/saime428/26b10367d6b2d44c0514a65b36db6f8c27018815/assets/profile-hero.svg" alt="saime428 — local-first AI, agent workflows and creative tools" />
 </p>
 
-<p align="center">
-  <b>MSc Robotics and Intelligent Systems @ HKU</b> (starting Sep 2026) · Shenzhen<br/>
-  Local-first agent infrastructure · robot learning · pre-silicon performance modeling
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/saime428/saime428/master/assets/profile-projects.svg" alt="Project cards: agent core with 988 tests, DreamLoop on PyPI and GHCR, usage tray, fxlab web motion, seven merged upstream pull requests" />
